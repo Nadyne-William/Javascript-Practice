@@ -4,7 +4,7 @@ name = "Nadyne";
 
 var isMarried = false;
 
-var age = 23;
+var age = 2;
 
 // if (age >= 20){
 //     console.log("You are an adult")
@@ -14,11 +14,6 @@ var age = 23;
 //     console.log("Sorry, you are not an adult")
 // }
 
-// console.log("hello")
-
-if(age => 18){
-    console.log("You")
-}
 
 // if (age >= 20 || age >= 18){
 
